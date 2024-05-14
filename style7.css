@@ -1,0 +1,103 @@
+.calculator{
+    position: absolute;
+    left: 800px;
+    top: 300px;
+    height: 200px;
+    width: 180px;
+    background-color: rgb(204, 203, 203);
+}
+.calculator__key1{
+    position: absolute;
+    top: 50px;
+    left: 15px;
+}
+.calculator__key2{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.calculator__key3{
+    position: absolute;
+    top: 50px;
+    left: 86px;
+}
+.plusi{
+    position: absolute;
+    top: 50px;
+    left: 122px;
+}
+.calculator__key4{
+    position: absolute;
+    top: 90px;
+    left: 15px;
+}
+.calculator__key5{
+    position: absolute;
+    top: 90px;
+    left: 50px;
+}
+.calculator__key6{
+    position: absolute;
+    top: 90px;
+    left: 86px;
+}
+.minusi{
+    position: absolute;
+    top: 90px;
+    left: 122px;
+    letter-spacing: 3px;
+}
+.calculator__key7{
+    position: absolute;
+    top: 130px;
+    left: 15px;
+}
+.calculator__key8{
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+.calculator__key9{
+    position: absolute;
+    top:130px ;
+    left: 86px;
+}
+.ylli{
+    position: absolute;
+    top: 130px;
+    left: 122px;
+}
+.calculator__key10{
+    position: absolute;
+    top: 170px;
+    left: 15px;
+}
+.pika{
+    position: absolute;
+    top: 170px;
+    left: 50px;
+}
+.barazimi{
+    position: absolute;
+    top: 170px;
+    left: 86px;
+}
+.slash{
+    position: absolute;
+    top: 170px;
+    left: 122px;
+    letter-spacing: 3px;
+}
+.jonii{
+width: 155px;
+height: 30px;
+background-color: rgb(226, 226, 226);
+z-index: 1;
+position: absolute;
+border: 2 px solid black;
+}
+.inputi{
+    position: absolute;
+    top: 3px;
+    border: 2px solid rgb(0, 0, 0);
+}
